@@ -1,7 +1,7 @@
 1 ### 📥 ទាញយកកម្មវិធី
 
-**ទាញយក KhmerLunar Word Add-in**  
-[⬇️ ទាញយក KhmerLunar-WordAddIn.zip](https://github.com/phatsavin/KhmerLunar-WordAddIn/blob/master/KhmerLunar-WordAddIn.zip)
+**ទាញយក KhmerLunar Excel Add-in**  
+[⬇️ ទាញយក KhmerLunar-WordAddIn.zip](https://github.com/phatsavin/KhmerLunar-ExcelAddIn/blob/master/KhmerLunar-ExcelAddIn.zip)
 
 2 ### លទ្ធផល
 <div align="center">
